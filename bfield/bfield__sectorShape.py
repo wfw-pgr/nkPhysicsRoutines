@@ -2,6 +2,9 @@ import os, sys, inspect
 import numpy as np
 import nkBasicAlgs.integrate__GaussLegendre as igl
 
+# ============================================================ #
+# =  integral formulae given by W.Kleeven ECPM (2016)        = #
+# ============================================================ #
 
 # ========================================================= #
 # ===  bfield__sectorShape.py                           === #
